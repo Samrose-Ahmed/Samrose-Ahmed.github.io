@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samrose Ahmed</title>
-    <link>https://samrose.dev/</link>
-    <description>Recent content on Samrose Ahmed</description>
+    <title>Posts on Samrose Ahmed</title>
+    <link>https://samrose.dev/posts/</link>
+    <description>Recent content in Posts on Samrose Ahmed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jul 2019 00:14:36 -0700</lastBuildDate>
     
-        <atom:link href="https://samrose.dev/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://samrose.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -102,16 +102,6 @@ He asked him to bring his white shroud, kissed it, stretched himself full length
 &lt;p&gt;I give you now a message of good cheer&lt;/p&gt;
 
 &lt;p&gt;May God’s peace and joy forever more be yours.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://samrose.dev/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samrose.dev/about/</guid>
-      <description>&lt;p&gt;Hi, I am a human.&lt;/p&gt;
 </description>
     </item>
     
