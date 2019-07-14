@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samrose Ahmed</title>
-    <link>http://samrose.dev/</link>
+    <link>https://samrose.dev/</link>
     <description>Recent content on Samrose Ahmed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="http://samrose.dev/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://samrose.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://samrose.dev/about/</link>
+      <link>https://samrose.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://samrose.dev/about/</guid>
+      <guid>https://samrose.dev/about/</guid>
       <description>&lt;p&gt;Hi, I am a human.&lt;/p&gt;
 </description>
     </item>
